@@ -35,4 +35,5 @@ df['Prices']=price
 df['Images']=image
 df['Ratings']=rating
 df['Links']=link
-df.to_csv("mobiles_details.csv")
+df.to_csv("sample_mobiles_details.csv")
+
